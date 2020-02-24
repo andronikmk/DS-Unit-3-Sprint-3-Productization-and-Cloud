@@ -42,7 +42,7 @@ application using Flask and SQLite. A summary of the overall picture:
 
 ## Assignment
 
-- Reproduce the steps from lecture: write and run a basic local Flask web
+- [x]Reproduce the steps from lecture: write and run a basic local Flask web
   application
 - Create a model for `Tweet` and `User` as demonstrated in lecture, and populate
   your local (SQLite) database with some invented data (at least 6 Tweets and 2
