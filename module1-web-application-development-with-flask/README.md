@@ -44,7 +44,7 @@ application using Flask and SQLite. A summary of the overall picture:
 
 - [x] Reproduce the steps from lecture: write and run a basic local Flask web
   application
-- Create a model for `Tweet` and `User` as demonstrated in lecture, and populate
+- [x] Create a model for `Tweet` and `User` as demonstrated in lecture, and populate
   your local (SQLite) database with some invented data (at least 6 Tweets and 2
   Users)
 - For tomorrow, make sure to sign up for the [Twitter Developer
